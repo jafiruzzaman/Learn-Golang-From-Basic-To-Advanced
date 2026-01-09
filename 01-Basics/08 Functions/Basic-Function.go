@@ -8,7 +8,3 @@ func greet() {
 }
 
 
-func main(){
-	fmt.Println("========================================================== Basic Functions In Go-lang ==========================================================")
-	greet()// Call greet function
-}
